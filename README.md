@@ -108,4 +108,6 @@ RegisterNumber:24900343
 
 
 **Result:**
+
+
 Thus the half adder and half subtractor circuits are designed in Quartus using verilog programming and its truth table is verified successfully.
