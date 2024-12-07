@@ -38,7 +38,7 @@ Figure -02 HALF Subtractor
 
 (i)HALF ADDER
 
-![hatt](https://github.com/user-attachments/assets/e2ebed1c-a95e-45ac-be50-ea43984bf710)
+   ![hatt](https://github.com/user-attachments/assets/e2ebed1c-a95e-45ac-be50-ea43984bf710)
 
 (ii)HALF SUBTRACTOR
 
@@ -60,6 +60,7 @@ Figure -02 HALF Subtractor
 **Program:**
 
 (i)HALF ADDER
+```
     module haexp(a,b,sum,carry);
     input a,b;
     output sum,carry;
@@ -69,6 +70,7 @@ Figure -02 HALF Subtractor
 
 
 (ii)HALF SUBTRACTOR
+```
     module hsexp(a,b,difference,borrow);
     input a,b;
     output difference,borrow;
