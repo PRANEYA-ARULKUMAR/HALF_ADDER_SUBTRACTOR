@@ -58,6 +58,7 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+
 (i)HALF ADDER
     module haexp(a,b,sum,carry);
     input a,b;
@@ -65,6 +66,7 @@ Figure -02 HALF Subtractor
     assign sum= (a ^ b);
     assign carry= ( a & b);
     endmodule
+
 
 (ii)HALF SUBTRACTOR
     module hsexp(a,b,difference,borrow);
