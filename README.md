@@ -89,9 +89,12 @@ RegisterNumber:24900343
 ![hass](https://github.com/user-attachments/assets/44050849-5718-4faa-b1de-88ec3c24ce90)
 
 
+
+
 (ii)HALF SUBTRACTOR
 
 ![hsss](https://github.com/user-attachments/assets/c3b5fb4a-fd6a-4dfb-85b6-5e8215a735a3)
+
 
 
 
