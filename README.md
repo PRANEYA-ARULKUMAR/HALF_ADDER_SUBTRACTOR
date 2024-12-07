@@ -38,7 +38,7 @@ Figure -02 HALF Subtractor
 
 (i)HALF ADDER
 
-   ![hatt](https://github.com/user-attachments/assets/e2ebed1c-a95e-45ac-be50-ea43984bf710)
+ ![hatt](https://github.com/user-attachments/assets/e2ebed1c-a95e-45ac-be50-ea43984bf710)
 
 (ii)HALF SUBTRACTOR
 
@@ -67,7 +67,7 @@ Figure -02 HALF Subtractor
     assign sum= (a ^ b);
     assign carry= ( a & b);
     endmodule
-
+```
 
 (ii)HALF SUBTRACTOR
 ```
@@ -77,7 +77,7 @@ Figure -02 HALF Subtractor
     assign difference= (a ^ b);
     assign borrow= ( ~a & b);
     endmodule
-
+```
 Developed by: A Praneya
 
 RegisterNumber:24900343
