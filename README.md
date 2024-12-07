@@ -59,20 +59,23 @@ RegisterNumber:24900343
 **RTL Schematic**
 
 (i)HALF ADDER
-![hass](https://github.com/user-attachments/assets/164b5c41-12d2-44cb-b7ac-a79cb730b709)
+![hass](https://github.com/user-attachments/assets/44050849-5718-4faa-b1de-88ec3c24ce90)
 
 (ii)HALF SUBTRACTOR
-![hsss](https://github.com/user-attachments/assets/a0d0d5ea-5236-4380-b899-8103c15a5de3)
+![hsss](https://github.com/user-attachments/assets/c3b5fb4a-fd6a-4dfb-85b6-5e8215a735a3)
+
 
 
 **Output/TIMING Waveform**
 
 (i)HALF ADDER
 
-![hawss](https://github.com/user-attachments/assets/615b6d48-2545-43df-b43d-8e36f01904d5)
+![hawss](https://github.com/user-attachments/assets/30aa70b0-6048-4e7d-b188-121c4d6daea3)
+
 
 (ii)HALF SUBTRACTOR
 
-![hswss](https://github.com/user-attachments/assets/44542dba-9181-433f-b00d-527bc3aceda1)
+![hswss](https://github.com/user-attachments/assets/d614ff8e-647c-439b-881d-9d0fda19f845)
+
 
 **Result:**
